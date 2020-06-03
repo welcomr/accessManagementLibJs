@@ -12,4 +12,4 @@ https://s3-eu-west-1.amazonaws.com/kazeko-files/BAFB16F1-667A-47E5-845A-23CD7A00
 
 If you want to test, just get in touch with a team member. We'll give you a test environment :)
 
-### If you have any question, please contact us on Slack
+### If you have any question, please contact us dev@welcomr.com
